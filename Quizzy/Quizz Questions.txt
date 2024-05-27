@@ -1,0 +1,108 @@
+-------------------------------------------------------(Computer)-----------------------------------------------------------
+
+1. A process is a ? @
+
+single thread of execution.
+program in the execution ---
+program in the memory
+task
+
+2. What is smallest unit of the information? @
+
+A bit  ---
+A byte
+A block
+A nibble
+
+
+3. Which of the following natural element is the primary element in computer chips?
+
+Silicon ---
+Carbon
+Iron
+Uranium
+
+4. Which of the following is a structured programming technique that graphically represents the detailed steps required to solve a program?
+
+Object-oriented programming
+Pseudocode
+Flowchart   ---
+Top-down design
+
+
+5.  BIOS is used? @
+
+By operating system ---
+By compiler
+By interpreter
+By application software
+
+
+6. Which one of the following is the best fire extinguisher for IT equipment? @
+
+Dry powder
+Bromo chloride
+CO2 ---
+Water
+
+7.  What is the correct syntax for java main method?
+public void main(String[] args)
+public static void main(string[] args) 
+public static void main()
+none of the above ---
+
+
+8. Which of the following is not a Java keyword? @
+static
+try
+Integer ---
+new
+
+
+9. What is an assignment statement ?
+Adding a number to an int
+Assigning a multiplication
+Assigning a name to a variable
+Assigning a value to a variable ---
+
+
+-------------------------------------------------------(Math)-----------------------------------------------------------
+
+
+1. What is the sum of 130+125+191? @
+335
+456
+446 ---
+426
+
+
+2. 20+(90÷2) is equal to? @
+50
+55
+65 ---
+60
+
+3. Which of the following triangles have the same side lengths? @
+Scalene
+Isosceles
+Equilateral ---
+None of these
+
+4. The value of tan 60°/cot 30° is equal to? @
+0
+1 ---
+2
+3
+
+5.The probability of event equal to zero is called? @
+Unsure event
+Sure Event
+Impossible event ---
+Independent event
+
+
+6. 1. A circle has a number of tangents equal to
+0
+1
+2
+Infinite ---
