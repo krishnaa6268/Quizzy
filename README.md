@@ -2,6 +2,7 @@
 A console-based quiz application using JAVA.
 
 🔹 Features:
+
 Java for solid application logic 🖥️
 
 MySQL for data management 🗄️
