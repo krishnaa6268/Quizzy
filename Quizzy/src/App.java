@@ -7,7 +7,7 @@ public class App{
         Scanner sc=new Scanner(System.in);
 
         System.out.println("Welcome to the Quizzy!");
-        System.out.println("Developed by krishnaa6268");
+        System.out.println("Developed by krishnaa6268(वयम्)");
 
         System.out.print("Please Enter your name: ");
         String name= sc.nextLine();
